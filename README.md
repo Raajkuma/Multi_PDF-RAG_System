@@ -6,6 +6,10 @@ Unlike naive RAG pipelines, this application implements an advanced document pro
 
 ---
 
+## Application UI
+
+![Application](./ApplicationUI.png)
+
 ## 🏗️ System Architecture & Workflow
 
 The application follows a complete lifecycle from document management to generation and tracing:
