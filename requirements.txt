@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-google-genai
+python-dotenv
+langsmith
+sentence-transformers
+faiss-cpu
+pymupdf4llm
+rank-bm25
